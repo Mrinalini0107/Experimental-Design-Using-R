@@ -1,5 +1,9 @@
-### 📊 Experimental Design: Hypothesis Testing, Power, and Independence
+# 📘 Experimental Design Using R
 
+> **Author:** Ms. Mrunalini (Data Science Trainer)
+> 📧 mrunalini0107@gmail.com | 📍 Mumbai – 400095
+
+---
 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/1126a258-0b7d-4398-8869-e9e9781ccfb4" />
 
