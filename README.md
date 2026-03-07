@@ -1,5 +1,9 @@
 ### 📊 Experimental Design: Hypothesis Testing, Power, and Independence
 
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/1126a258-0b7d-4398-8869-e9e9781ccfb4" />
+
+
 This repository contains comprehensive notes and R-based demonstrations on Experimental Design, focusing on hypothesis testing errors, statistical power, multiple testing corrections, and independent measurements.
 
 ### 🔍 Topics Covered
