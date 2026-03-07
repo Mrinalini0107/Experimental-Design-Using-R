@@ -67,7 +67,7 @@ Before drawing conclusions from a regression model, it is essential to check whe
 
 **Model fitted:**
 
-$$\text{Prestige} = \beta_0 + \beta_1\,(\text{Income}) + \beta_2\,(\text{Education}) + \varepsilon$$
+$$\text{Prestige} = \beta_0 + \beta_1\(\text{Income}) + \beta_2\(\text{Education}) + \varepsilon$$
 
 The influence index plot displays four key diagnostics side by side:
 
